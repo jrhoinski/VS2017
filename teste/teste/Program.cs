@@ -10,7 +10,7 @@ namespace teste
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("oi git hub");
+            Console.WriteLine("oi git hub - exemplo de uso do github com vc 2017");
             Console.ReadKey();
         }
     }
